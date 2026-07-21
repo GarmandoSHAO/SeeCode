@@ -1,0 +1,3 @@
+1. This project explores the OpenHands SDK by creating an AI agent with LLM, TerminalTool, FileEditorTool, and TaskTrackerTool in test.py.
+2. The project uses DeepSeek models via the OpenHands SDK and manages the API key through environment variables loaded by python-dotenv.
+3. The Python virtual environment is located at E:\WorkSpace\PySpace\Interpreter\ and the workspace for the AI agent is set to the SceCode directory itself.
